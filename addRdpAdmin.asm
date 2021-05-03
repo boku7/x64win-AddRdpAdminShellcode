@@ -3,6 +3,7 @@
 # Date:             May 2nd, 2021
 # Tested on:        Windows 10 v2004 (x64)
 # Compiled from:    Kali Linux (x86_64)
+# Full Disclosure:  github.com/boku7/x64win-AddRdpAdminShellcode
 # Shellcode Description:
 #   64bit Windows 10 shellcode that adds user BOKU:SP3C1ALM0V3 to the system and the localgroups
 #   Administrators & "Remote Desktop Users". Position Independent Code (PIC) that dynamically resolves
